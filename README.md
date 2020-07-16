@@ -11,4 +11,4 @@ Find the current weather of the entered city!
 
 ## Screenshot
 
-<img src="images/screenshot.png">
+<img src="images/screenshot.gif">
