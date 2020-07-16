@@ -2,6 +2,8 @@
 
 Find the current weather of the entered city!
 
+[Speed Coding Video Link](https://youtu.be/MY9J6DEV3xo)
+
 ## Skills Used
 
 * http Library
