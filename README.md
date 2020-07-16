@@ -2,7 +2,8 @@
 
 Find the current weather of the entered city!
 
-[Speed Coding Video Link](https://youtu.be/MY9J6DEV3xo)
+<!--[Speed Coding Video Link](https://youtu.be/MY9J6DEV3xo)-->
+<a href="https://youtu.be/MY9J6DEV3xo" target="_blank">Live Coding Video on YouTube</a>
 
 ## Skills Used
 
